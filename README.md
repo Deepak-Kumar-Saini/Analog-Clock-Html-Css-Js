@@ -23,10 +23,10 @@ This is a simple and fully functional **Analog Clock** built using **HTML**, **C
 - **SVG** for the clock face
 
 ## 💡 What I Learned
--How to work with SVGs and absolute positioning
--How to rotate elements using transform and set transform-origin
--How to calculate and animate clock hands using Date and setInterval
--Importance of managing variable names carefully (especially when DOM elements and data share names)
+- How to work with SVGs and absolute positioning
+- How to rotate elements using transform and set transform-origin
+- How to calculate and animate clock hands using Date and setInterval
+- Importance of managing variable names carefully (especially when DOM elements and data share names)
 
 ## 📬 Feedback
 If you have any suggestions or improvements, feel free to open an issue or fork the repo. I’m always open to learning and feedback!
