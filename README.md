@@ -1,4 +1,34 @@
-# Analog Clock Html Css & Js
+# 🕒 Analog Clock – HTML, CSS & JavaScript
 
-![Analog Clock](https://raw.githubusercontent.com/Deepak-Kumar-Saini/Analog-Clock-Html-Css-Js/refs/heads/main/IMG_20250718_203945.png)
-A fully working analog clock created using html css javascript -:
+Hi, I'm Deepak 👋  
+This is a simple and fully functional **Analog Clock** built using **HTML**, **CSS**, and **JavaScript**. I created this project to practice DOM manipulation, SVG integration, and basic time-based animations in JavaScript.
+
+## 📷 Screenshot
+
+![Analog Clock Screenshot](https://codepen.io/876467deepak/pen/RwVmjra/image/small.png)
+
+## 🔧 Features
+
+- Live ticking analog clock
+- Custom-designed SVG dial
+- Animated hour, minute, and second hands
+- Responsive and visually appealing UI
+- JavaScript-powered real-time updates
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **SVG** for the clock face
+
+## 💡 What I Learned
+-How to work with SVGs and absolute positioning
+-How to rotate elements using transform and set transform-origin
+-How to calculate and animate clock hands using Date and setInterval
+-Importance of managing variable names carefully (especially when DOM elements and data share names)
+
+## 📬 Feedback
+If you have any suggestions or improvements, feel free to open an issue or fork the repo. I’m always open to learning and feedback!
+
+## Made with ❤️ by Deepak
