@@ -5,7 +5,7 @@ This is a simple and fully functional **Analog Clock** built using **HTML**, **C
 
 ## 📷 Screenshot
 
-![Analog Clock Screenshot](https://codepen.io/876467deepak/pen/RwVmjra/image/small.png)
+![Analog Clock Screenshot](https://raw.githubusercontent.com/Deepak-Kumar-Saini/Analog-Clock-Html-Css-Js/refs/heads/main/Analog-Clock-Screenshot.PNG)
 
 ## 🔧 Features
 
